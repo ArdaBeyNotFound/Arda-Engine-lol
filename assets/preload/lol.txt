@@ -1,0 +1,1 @@
+check freeplay when builded
